@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wordsmith-woodard&label=Profile%20views&color=0e75b6&style=flat" alt="wordsmith-woodard" /> </p>
 
-👀𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 on <a href="https://www.linkedin.com/in/ashlie405/">LinkedIn</a> 𝐟𝐨𝐫 𝐀𝐜𝐭𝐢𝐯𝐞 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬 & 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬
+👀𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 on <a href="https://www.linkedin.com/in/ashlie405/">LinkedIn</a> 𝐟𝐨𝐫 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬 & 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬  
 
 ▶𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: Multi-industry Technical Writer & Certified IT Support Specialist with 6+ years providing Software Support and Professional Documentation services facilitating SaaS, B2B, and B2C project contracts that have improved hiring/employment outcomes and business development operations.
 
