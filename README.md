@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">Hi 👋, I'm Ashlie</h1>
-<h3 align="center">I'm passionate about technical writing, SaaS development, and getting people jobs!</h3>
+<h3 align="center">I'm passionate about Technical Writing, SaaS Development, Data, & Problem-Solving!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wordsmith-woodard&label=Profile%20views&color=0e75b6&style=flat" alt="wordsmith-woodard" /> </p>
 
