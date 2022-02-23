@@ -12,7 +12,7 @@
 
 ✅𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗖𝗿𝗲𝗱𝗲𝗻𝘁𝗶𝗮𝗹𝘀: Certified Microsoft Word Expert & Certified Professional Technical Communicator with a career background in IT, Database, Web Development, Professional Branding, Editing, Content Creation, and Technical Documentation Format Management.
 
-👩‍💻 I am currently working to complete my Python Certification
+👩‍💻 I am currently working to complete my Python Certification & exploring React.js
 
 🤝 I provide help with **Resume, GitHub, & LinkedIn Optimization**
 
