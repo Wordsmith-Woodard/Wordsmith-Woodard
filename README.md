@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ashlie</h1>
 <h3 align="center">I'm passionate about Technical Writing, SaaS Development, Data, & Problem-Solving!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wordsmith-woodard&label=Profile%20views&color=0e75b6&style=flat" alt="wordsmith-woodard" /> </p>
 
 👀𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 on <a href="https://www.linkedin.com/in/ashlie405/">LinkedIn</a> 𝐟𝐨𝐫 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧𝐬 & 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬  
 
