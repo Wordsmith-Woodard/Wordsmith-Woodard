@@ -23,7 +23,9 @@
 
 📫 How to reach me **ashliemwpr@outlook.com**
 
-⚡ Fun fact **I am a film enthusiast and love movies**
+⚡ Fun fact **I love movies, anything tech, & fixing mechanical hardware **
+
+🧘‍♀️ Personal Goals I have currently consisist of doing more Yoga and traveling to visit family & colleagues
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
