@@ -15,8 +15,6 @@
 
 🤝 I provide help with **Resume, GitHub, & LinkedIn Optimization**
 
-👨‍💻 All of my projects are available at [https://ashliewdrd.wixsite.com/tech](https://ashliewdrd.wixsite.com/tech)
-
 📝 I regularly write and post on [https://www.linkedin.com/in/ashlie405/](https://www.linkedin.com/in/ashlie405/)
 
 💬 Ask me about **Professional Resume Tips**
